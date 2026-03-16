@@ -10,9 +10,12 @@ Incluir lista de personas del grupo
 Se puede añadir enlace a página personal de github o lo que se quiera...(optativo)
 -->
 
-- :man: minombre
-- :woman: minombre
-- :woman: minombre 
+- :man: Darío González
+- :man: Jairo Coca
+- :man: Rodrigo Bogadanov
+- :man: Kai Zeller
+
+
 
 
 Proyecto (código): 
@@ -20,8 +23,8 @@ URL (link) del proyecto en Github:
 
 
 Tipo/Género:  
-- [x] FictionCiberpunk  
-- [ ] Reality/tribus urbanas  
+- [ ] FictionCiberpunk  
+- [x] Reality/tribus urbanas  
 - [ ] Comic
 
 
