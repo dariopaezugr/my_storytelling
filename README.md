@@ -35,7 +35,7 @@ Tipo/Género:
 ### Personaje
 
 
-![]()
+![](jairrente.jpeg)
 
 Nombre: Jairrente
 
