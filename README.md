@@ -77,7 +77,7 @@ Un treintañero acostumbrado a ser un nini se tendrá que enfrentar a un mundo d
 
 - Storytelling: (enlace) 
 
-
+- Juego Renpy: Motril Vice (Jairrente 4: El retorno del wasap): https://motrilvice.itch.io/jairrente-4-el-retorno-de-wasap 
 
 
 ### Conclusiones/Valoración del equipo
