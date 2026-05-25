@@ -72,10 +72,10 @@ Un treintañero acostumbrado a ser un nini se tendrá que enfrentar a un mundo d
   ENLACE:  https://app.lumi.education/run/krODHg 
 
 
-- Banner/Teaser:  (enlace) 
+- Banner/Teaser:  https://www.figma.com/proto/6BSsyvQN4uUSfmA7jSj0qj/CRIAV-Demo?node-id=720-841&t=fi6XLo4mUZzdYE7y-1&scaling=contain&content-scaling=fixed&page-id=205%3A243&starting-point-node-id=720%3A841&show-proto-sidebar=1
 
 
-- Storytelling: (enlace) 
+- Storytelling: https://arcweave.com/app/project/1M62rzo6wr 
 
 - Juego Renpy: Motril Vice (Jairrente 4: El retorno del wasap): https://motrilvice.itch.io/jairrente-4-el-retorno-de-wasap 
 
