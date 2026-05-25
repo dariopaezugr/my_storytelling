@@ -77,8 +77,7 @@ Un treintañero acostumbrado a ser un nini se tendrá que enfrentar a un mundo d
 
 - Storytelling: https://arcweave.com/app/project/1M62rzo6wr 
 
-- Juego Renpy: Motril Vice (Jairrente 4: El retorno del wasap): https://motrilvice.itch.io/jairrente-4-el-retorno-de-wasap 
-
+- Juego Renpy: Motril Vice (Jairrente 4: El retorno del wasap): https://motrilvice.itch.io/jairrente-4-el-retorno-de-wasap?secret=RZnnKoMtzwsSAwo5NBIpzvSDOU 
 
 ### Conclusiones/Valoración del equipo
 Crear una historia a través de métodos tan poco ortodoxos y creativos ha sido bastante enriquecedor. Al fin y al cabo nos hemos inspirado en clásicos españoles como Torrente y la lluvia de ideas ha sido clave.
